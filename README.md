@@ -1,7 +1,9 @@
 # AstraTrade-ASTT
 At AstraTrade (ASTT), innovation meets excellence.
 Welcome to AstraTrade (ASTT), where technology, innovation, and global connectivity come together to shape a new future. Our mission is simple: to create a platform that empowers individuals and businesses to thrive in a rapidly changing world.
+
 ![image](https://github.com/user-attachments/assets/2913cba1-15b1-4226-a490-bc8d4ddcc3bc)
+
 Innovative Solutions for a Changing World
 At AstraTrade, we believe in the power of technology to solve complex problems and open up new possibilities. From advanced tools to streamlined experiences, we provide solutions designed to keep you ahead of the curve. Our platform integrates the latest advancements to ensure that your journey is smooth, secure, and empowering.
 
